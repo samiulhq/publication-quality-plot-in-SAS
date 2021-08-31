@@ -1,9 +1,5 @@
 /*An Example code to generate publication quality plot
- Simulated data based on the paper published by
-Arora, Bindvi, et al. "Antioxidant degradation kinetics in apples." Journal of food science and technology 55.4 (2018): 1306-1313.
-We plot the Ascorbic acid decay in cut apples across different cultivars.
- 
-Auhtor:Samiul Haque
+ Simulated data 
 Change path to datafile as needed*/
 
 %let path = '/compute-landingzone/Home/PubReadyPlot/table_APPLE_ACID_DECAY.csv';
